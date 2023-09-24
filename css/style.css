@@ -1,0 +1,24 @@
+#greycol{
+    color: grey;
+}
+div:nth-child(5){
+    color: red;
+}
+.yellow{
+    color: yellow;
+}
+.first:active{
+background-color: blueviolet;
+}
+.second:hover{
+    background-color: aqua;
+}
+.third:visited{
+    color: hotpink;
+}
+.fourth:link{
+    color: blueviolet;
+}
+.fifth:focus{
+    color: gold;
+}
